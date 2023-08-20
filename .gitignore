@@ -1,0 +1,24 @@
+# 默认忽略的文件
+/shelf/*
+/workspace.xml
+/Serial/*
+/.idea/*
+!/Serial/crc.py
+!/Serial/myserial.py
+!/Serial/testserial.py
+!/Serial/smallserial.py
+*.avi
+*.pt
+Serial/__pycache__/
+Location/__pycache__/
+Location/.idea
+Location/.github
+Location/.github/
+Camera/__pycache__/
+/result.jpg
+/B1_48.jpg
+/Location/runs/*
+!/.gitignore
+.idea
+/__pycache__/
+__pycache__
